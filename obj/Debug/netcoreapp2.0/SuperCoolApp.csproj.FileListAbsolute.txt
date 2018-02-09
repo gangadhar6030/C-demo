@@ -1,0 +1,11 @@
+C:\Users\nandu\source\repos\SuperCoolApp\SuperCoolApp\obj\Debug\netcoreapp2.0\SuperCoolApp.csprojResolveAssemblyReference.cache
+C:\Users\nandu\source\repos\SuperCoolApp\SuperCoolApp\obj\Debug\netcoreapp2.0\SuperCoolApp.csproj.CoreCompileInputs.cache
+C:\Users\nandu\source\repos\SuperCoolApp\SuperCoolApp\obj\Debug\netcoreapp2.0\SuperCoolApp.AssemblyInfoInputs.cache
+C:\Users\nandu\source\repos\SuperCoolApp\SuperCoolApp\obj\Debug\netcoreapp2.0\SuperCoolApp.AssemblyInfo.cs
+C:\Users\nandu\source\repos\SuperCoolApp\SuperCoolApp\bin\Debug\netcoreapp2.0\SuperCoolApp.deps.json
+C:\Users\nandu\source\repos\SuperCoolApp\SuperCoolApp\bin\Debug\netcoreapp2.0\SuperCoolApp.runtimeconfig.json
+C:\Users\nandu\source\repos\SuperCoolApp\SuperCoolApp\bin\Debug\netcoreapp2.0\SuperCoolApp.runtimeconfig.dev.json
+C:\Users\nandu\source\repos\SuperCoolApp\SuperCoolApp\bin\Debug\netcoreapp2.0\SuperCoolApp.dll
+C:\Users\nandu\source\repos\SuperCoolApp\SuperCoolApp\bin\Debug\netcoreapp2.0\SuperCoolApp.pdb
+C:\Users\nandu\source\repos\SuperCoolApp\SuperCoolApp\obj\Debug\netcoreapp2.0\SuperCoolApp.dll
+C:\Users\nandu\source\repos\SuperCoolApp\SuperCoolApp\obj\Debug\netcoreapp2.0\SuperCoolApp.pdb
